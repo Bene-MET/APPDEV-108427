@@ -4,6 +4,7 @@ Python is a powerful, high-level programming language that is widely used in man
 
 <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="Python Logo (https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)" width="500" />
 
+Lorem ipsum dolor sit amet.
 
 ## Why Python is Popular
 
